@@ -29,3 +29,6 @@
 * time complexity  : o(nLogn) in best/avg case ; o(n^2) in worst case 
 * sorting in place - yes
 * stable - no
+
+### Counting sort :
+* Time Complexity: O(n+k)
