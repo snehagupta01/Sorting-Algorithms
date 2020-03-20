@@ -5,3 +5,8 @@
 #### -> auxiliary space - o(1)
 #### -> sorting in place - yes
 #### -> stable - yes
+
+### Selection sort :
+#### -> sorts an array by repeatedly finding the minimum element from unsorted part and putting it at the beginning
+#### -> time complexity  : o(n^2)
+#### -> sorting in place - yes
