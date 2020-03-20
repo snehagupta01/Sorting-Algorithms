@@ -31,4 +31,4 @@
 * stable - no
 
 ### Counting sort :
-* Time Complexity: O(n+k)
+* Time Complexity: O(n+k) ; k-range
