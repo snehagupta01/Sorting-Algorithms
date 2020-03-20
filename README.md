@@ -22,3 +22,10 @@
 #### -> time complexity  : o(nLogn) in all cases 
 #### -> sorting in place - no
 #### -> stable - yes
+
+### Quick sort :
+#### -> divide and conquer paradigm
+#### ->picks an element as pivot and partitions the given array around the picked pivot
+#### -> time complexity  : o(nLogn) in best/avg case ; o(n^2) in worst case 
+#### -> sorting in place - yes
+#### -> stable - no
