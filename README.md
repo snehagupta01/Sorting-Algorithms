@@ -16,3 +16,9 @@
 #### -> time complexity  : o(n^2)
 #### -> sorting in place - yes
 #### -> auxiliary space - o(1)
+
+### Merge sort :
+#### -> divide and conquer paradigm
+#### -> time complexity  : o(nLogn) in all cases 
+#### -> sorting in place - no
+#### -> stable - yes
